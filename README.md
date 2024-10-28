@@ -2,10 +2,11 @@
 [[Paper]](https://doi.org/10.1016/j.engstruct.2024.119076)
 
 本仓库为《Assessing Progressive Collapse Regions of Reinforced Concrete Frame Structures Using Graph Convolutional Networks》文章的工作内容，该文章已发表在《Engineering Structures》期刊上。
-# requirement
+# 相关软件
 1. [python 3.11](https://www.python.org/downloads/release/python-3118/)
-2. [Blender 2.92](https://download.blender.org/release/Blender2.92/)
-3. Windows 10.
+2. CUDA12.1
+3. [Blender 2.92](https://download.blender.org/release/Blender2.92/)
+4. Windows 10.
 # 安装环境
 1. 将blender2.92放置在本项目的根目录下;
 ![image](https://github.com/user-attachments/assets/47a0a474-dd4d-4845-8fe2-c98460d2fe9f)
