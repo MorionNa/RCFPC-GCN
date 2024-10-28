@@ -8,6 +8,7 @@
 3. Windows 10.
 # 安装环境
 1. 将blender2.92放置在本项目的根目录下;
+![image](https://github.com/user-attachments/assets/47a0a474-dd4d-4845-8fe2-c98460d2fe9f)
 2. 运行blender_dependency.bat;
 3. 运行Setup.bat即可。
 # 使用说明
