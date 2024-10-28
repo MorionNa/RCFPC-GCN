@@ -6,6 +6,7 @@ This is the work of the paper titled 'Assessing Progressive Collapse Regions of 
 2. [Blender 2.92](https://download.blender.org/release/Blender2.92/) 
 # Setup
 1. Place blender2.92 in the root directory of this project;
+![image](https://github.com/user-attachments/assets/da6ec414-77f8-477d-8352-3cd1c1a1b830)
 2. Run blender_dependency.bat;
 3. Just run Setup.bat.
 # Usage
