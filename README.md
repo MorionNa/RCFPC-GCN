@@ -8,7 +8,8 @@
 3. Windows 10.
 # 安装环境
 1. 将blender2.92放置在本项目的根目录下;
-2. 运行Setup.bat即可。
+2. 运行blender_dependency.bat;
+3. 运行Setup.bat即可。
 # 使用说明
 1. 将结构信息储存在不同的excel文件中，并放置于input文件夹下；
 2. 清空output文件夹；
