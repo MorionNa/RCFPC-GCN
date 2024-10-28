@@ -1,5 +1,6 @@
 # RCFPC-GCN: Assessing progressive collapse regions of reinforced concrete frame structures using Graph Convolutional Networks (Engineering Structures)
 [[Paper]](https://doi.org/10.1016/j.engstruct.2024.119076)
+
 本仓库为《Assessing Progressive Collapse Regions of Reinforced Concrete Frame Structures Using Graph Convolutional Networks》文章的工作内容，该文章已发表在《Engineering Structures》期刊上。
 # requirement
 1. [python 3.11](https://www.python.org/downloads/release/python-3118/)
