@@ -6,7 +6,8 @@ This is the work of the paper titled 'Assessing Progressive Collapse Regions of 
 2. [Blender 2.92](https://download.blender.org/release/Blender2.92/) 
 # Setup
 1. Place blender2.92 in the root directory of this project;
-2. Just run Setup.bat.
+2. Run blender_dependency.bat;
+3. Just run Setup.bat.
 # Usage
 1. Place the input data in the 'input' folder;
 2. Clear the 'output' folder；
